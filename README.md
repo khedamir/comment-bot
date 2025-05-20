@@ -10,7 +10,7 @@
 
 ```bash
 git clone https://github.com/khedamir/comment-bot.git
-cd cd comment-bot
+cd comment-bot
 ```
 
 ### 2. Создание и активация виртуального окружения
