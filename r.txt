@@ -1,0 +1,4 @@
+pip install -U "autogen-agentchat" "autogen-ext[openai,azure]" "autogen-core"
+pip install python-dotenv
+pip install telethon
+python 3.12.9
